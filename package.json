@@ -1,0 +1,13 @@
+{
+    "name": "pipe",
+    "type": "module",
+    "packageManager": "yarn@4.0.2",
+    "main": "dist/index.js",
+    "devDependencies": {
+        "@types/node": "^20.9.1",
+        "typescript": "^5.2.2"
+    },
+    "scripts": {
+        "build": "tsc"
+    }
+}
